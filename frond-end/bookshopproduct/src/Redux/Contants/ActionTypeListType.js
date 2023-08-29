@@ -1,0 +1,1 @@
+export const FETCH_LIST_TYPE = "FETCH_LIST_TYPE"
